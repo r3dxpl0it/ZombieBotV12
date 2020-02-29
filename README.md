@@ -1,5 +1,7 @@
-Zombie Bot V12 leaked from Leaked
+# Zombie Bot V12 leaked from Leaked
 
+This is a py 2 version, contact me by mail "return_root@protonmail.com" for getting V13 version and other leaked tools. 
 
-# This is a py 2 version 
-# contact for getting new V13 version 
+# Usage 
+
+-pip3 install -r requirements.txt
